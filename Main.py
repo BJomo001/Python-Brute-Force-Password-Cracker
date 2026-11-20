@@ -14,5 +14,7 @@ for val in range (12):
         a = [x + 1 for 1 in Combination for x in a]
     guess = guess + a
     if Password in Guess:        
-        break  
-  
+        break
+    
+print (f"{Password} : {len(Guess)} Guesses")
+print (f"Runtime: {str(time() - Start_time)}")    
