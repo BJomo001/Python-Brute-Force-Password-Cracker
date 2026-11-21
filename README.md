@@ -131,6 +131,23 @@ Potential enhancements include:
 - 📊 Displaying real-time guessing progress.
 - 🔍 Supporting alternative password-generation strategies.
 
+## 🤝 Contributing
+
+Contributions, suggestions, and feedback are welcome!
+
+To contribute:
+
+Fork this repository.
+
+Create a new branch for your changes.
+
+Commit your improvements.
+
+Push your branch to GitHub.
+
+Open a pull request describing your changes.
+
+
 ## 📜 License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more information.
