@@ -47,6 +47,8 @@ Python & Git installed on your computer.
 
 A code editor such as Visual Studio Code.
 
+## Installation
+
 ### 1️⃣ Clone the Repository
 
 Open your terminal or command prompt and run:
