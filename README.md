@@ -1,6 +1,6 @@
 # 🔐 Python Brute Force Password Cracker
 
-🚀 A Python-based brute-force password cracking program designed to demonstrate how password guessing works through automated character combinations.
+A Python-based brute-force password cracking program designed to demonstrate how password guessing works through automated character combinations.
 
 ## 📌 About the Project
 
