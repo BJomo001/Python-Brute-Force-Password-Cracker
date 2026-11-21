@@ -37,6 +37,16 @@ Python-Brute-Force-Password-Cracker/
 
 ## ⚙️ Getting Started
 
+Follow these steps to run the project locally.
+
+### Prerequisites
+
+You will need:
+
+Python & Git installed on your computer.
+
+A code editor such as Visual Studio Code.
+
 ### 1️⃣ Clone the Repository
 
 Open your terminal or command prompt and run:
